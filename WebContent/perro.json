@@ -1,0 +1,21 @@
+{
+
+    "perropanchito":{
+        "perro": "panchito",
+        "edad":4,
+        "peso":10.5,
+        "estaVivo":true,
+        "propietario":{
+                "nombre":"ivan",
+                "edad":24,
+                "direccion":"Col.Uno,Calle uno #1"
+        },
+        "cuidados":[
+                "Bañarlo en seco",
+                "Sacar a pasear una vez al dia",
+                "alimentarlo 3 veces al dia"
+        ]
+
+        }
+
+}
